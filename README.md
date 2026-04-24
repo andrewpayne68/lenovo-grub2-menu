@@ -8,4 +8,3 @@ Screenshot
 \
 ![image-1](https://github.com/andrewpayne68/lenovo-grub2-menu/blob/main/screen.png)
 
-\
