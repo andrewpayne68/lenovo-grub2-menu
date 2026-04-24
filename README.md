@@ -6,6 +6,6 @@ This is a fully themed GRUB2 Menu for Lenovo laptops and workstations running mu
 Screenshot
 -
 \
-![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/Blackbuntu-desktop.png)
+![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/Blackbuntu-desktop.png](https://github.com/andrewpayne68/lenovo-grub2-menu/blob/main/screen.png)
 
 \
